@@ -1,0 +1,31 @@
+a {
+    color:red;
+    font-style: italic;
+    text-decoration: none;
+    background-color: yellow;
+}
+.para {
+    text-decoration: line-through;
+}
+ .text {
+    background-color:yellow;
+ }
+ .text1 {
+    background-color: yellow;
+ }
+ .list {
+    color:brown;
+    font-weight:bold;
+ }
+ .list1 {
+    letter-spacing: 5px;
+    line-height:20px;
+    word-spacing: 5px;
+ }
+ .list3 {
+    color:brown;
+    letter-spacing: 5px;
+    line-height: 20px;
+    word-spacing: 5px;
+ }
+ 
